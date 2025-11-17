@@ -1,0 +1,1 @@
+Câu hỏi của em là: PHP là ngôn ngữ thông dịch và không yêu cầu khai báo kiểu dữ liệu trước khi chạy. Vậy tại sao PHP vẫn cần hỗ trợ lập trình hướng đối tượng (OOP)? PHP dùng OOP để giải quyết những hạn chế nào của lập trình thủ tục, và điều này khác gì so với OOP trong ngôn ngữ biên dịch như Java?

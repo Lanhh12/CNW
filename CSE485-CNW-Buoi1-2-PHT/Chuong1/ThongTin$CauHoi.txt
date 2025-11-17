@@ -1,0 +1,7 @@
+B, Thông tin trích xuất
+1. Request URL: https://tlu.edu.vn/
+2. Request Method: GET
+3. Status Code: 200 OK
+
+C, Câu hỏi Phản biện
+Câu hỏi của em là: Trên tab Network của Developer Tools, mỗi request đều có Status Code. Tại sao Web Server cần phải gửi Status Code riêng (200, 301, 404, 500…) thay vì chỉ gửi nội dung HTML? Điều gì khiến Status Code trở thành tiêu chuẩn bắt buộc trong Web?
