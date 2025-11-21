@@ -1,0 +1,1 @@
+Câu hỏi của em là: Tại sao khi làm chức năng đăng nhập, chúng ta không nên lưu trực tiếp tên đăng nhập và mật khẩu trong $_COOKIE mà lại dùng $_SESSION? Và vì sao mỗi trang cần gọi session_start() để truy cập dữ liệu SESSION ?
