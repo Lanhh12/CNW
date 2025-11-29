@@ -1,0 +1,1 @@
+Câu hỏi của em là: Trong hệ thống lớn hơn, tại sao ta không viết trực tiếp query trong file chapter4.php mà cần tách logic database thành một lớp Model riêng (ví dụ Student.php)? Điều này giúp ích gì cho bảo trì và mở rộng hệ thống?
