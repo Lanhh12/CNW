@@ -1,0 +1,1 @@
+Câu hỏi của em là: Trong mô hình MVC, tại sao View tuyệt đối không được thao tác trực tiếp với CSDL, và việc tách rời này giúp ích như thế nào khi mở rộng quy mô ứng dụng hoặc chuyển đổi sang Laravel?
