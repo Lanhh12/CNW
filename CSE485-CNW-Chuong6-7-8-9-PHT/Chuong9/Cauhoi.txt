@@ -1,0 +1,1 @@
+Câu hỏi của em là: Sự khác biệt cốt lõi giữa Xác thực (Authentication) và Phân quyền (Authorization) là gì? Trong một ứng dụng Laravel, chức năng “Đăng nhập” thuộc về Authentication hay Authorization, và chức năng “Chỉ Admin mới được truy cập trang quản trị” thuộc về phần nào? Vì sao cần tách bạch rõ hai khái niệm này?

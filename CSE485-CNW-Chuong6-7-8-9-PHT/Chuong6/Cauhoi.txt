@@ -1,0 +1,1 @@
+Câu hỏi của em là: So với cách viết PHP thuần ở các chương trước (mọi xử lý đều nằm trong index.php), việc Laravel tách riêng Routing (routes/web.php) và Controller (app/Http/Controllers) mang lại những lợi ích gì về mặt bảo trì, mở rộng và tổ chức mã nguồn?

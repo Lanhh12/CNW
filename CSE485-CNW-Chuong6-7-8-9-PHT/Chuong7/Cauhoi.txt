@@ -1,0 +1,1 @@
+Câu hỏi của em là: @yield('content') trong file layout và @section('content') trong file view con phối hợp với nhau như thế nào để tạo ra trang HTML hoàn chỉnh? Vì sao cơ chế kế thừa layout của Blade giúp giảm trùng lặp code so với việc copy/paste header và footer cho mỗi trang?

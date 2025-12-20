@@ -1,0 +1,1 @@
+Câu hỏi của em là: So với việc sử dụng PDO và câu lệnh SQL thuần (ở Chương 4), Eloquent ORM mang lại những lợi ích gì về tốc độ phát triển và độ dễ đọc của mã nguồn? Trong những trường hợp nào việc dùng SQL thuần vẫn có thể phù hợp hơn Eloquent?
